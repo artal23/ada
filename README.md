@@ -1,2 +1,2 @@
-# ada
-ejercicios
+Ejercicios de Laboratoio ADA
+
